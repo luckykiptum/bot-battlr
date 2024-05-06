@@ -1,0 +1,14 @@
+.enlisted-bots-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .enlisted-bot {
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+  }
